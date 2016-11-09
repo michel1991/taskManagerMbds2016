@@ -10,10 +10,10 @@
 1. GlassFish Payara Michel pour me frotter ..
 ## TECHNOLOGIES UTILISEES
 
-1. JEE (EJB, JSF, JPA)
+- JEE (EJB, JSF, JPA)
 ## BIBLIOTHEQUES 
 
-1. PrimeFaces
+- PrimeFaces
 
 ## INSTALLATION
 - Créez votre base de donnée 
